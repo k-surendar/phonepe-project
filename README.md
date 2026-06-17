@@ -155,8 +155,11 @@ PhonePe-Transaction-Insights/
 
 **Surendar K**
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+- GitHub: https://github.com/K-Surendar
+- LinkedIn: www.linkedin.com/in/
+surendar-k-a88078369
+
+
 
 ---
 
